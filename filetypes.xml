@@ -1,8 +1,9 @@
 <application>
-  <component name="FileTypeManager" version="16">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="_radialGauge" type="SCSS" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping pattern="_KPItile" type="SCSS" />
+      <mapping pattern="_radialGauge" type="SCSS" />
     </extensionMap>
   </component>
 </application>
