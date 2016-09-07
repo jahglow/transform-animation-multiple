@@ -26,6 +26,10 @@
           <option name="url" value="https://github.com/jahglow/repmod-aggregated-table" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ConfirmitASA/ES6_test_framework_boilerplate.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\IvanP\WebstormProjects" />
